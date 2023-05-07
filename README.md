@@ -2,9 +2,9 @@
 
 * [Websäit Multilingual Dokumentatioun](https://github.com/xxai-doc)
 
-De Front-End Code vun der Websäit ass Open Source, wëllkomm fir ze hëllefen d'Iwwersetzung ze optimiséieren
+De Frontend Code vun der Websäit ass Open Source, wëllkomm fir ze hëllefen d'Iwwersetzung ze optimiséieren
 
-* [Front-Enn Code](https://github.com/xxai-art/web)
+* [Frontend Code](https://github.com/xxai-art/web)
 * [Sproochepäck fir de Site als Ganzt](https://github.com/xxai-art/web/tree/main/i18n)
 * [Sproochepäck fir Login Moduler](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Websäit Multilingual Dokumentatioun](https://github.com/xxai-doc)
