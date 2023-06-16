@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , füügt e puer Features op der Basis vun der Coffeescript-Syntax, kuckt [coffee_plus](./coffee_plus.md) .
 
-* Variabel erklären
+## Variabel erklären
 
 ```
 + var1, var2
 ```
 
-* Deklaratioun Label
+## Deklaratioun Label
 
 `:$` ass fir benotzen mat [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* séier Import
+## séier Import
 
 ```
 > zx/globals:
